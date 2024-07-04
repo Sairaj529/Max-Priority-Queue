@@ -1,12 +1,14 @@
 Max-Priority-Queue
 ===
 This project features a comprehensive implementation of a max priority queue in Java. A max priority queue is a data structure that supports the efficient retrieval and removal of the maximum element, making it ideal for various applications such as job scheduling, simulation systems, and resource management.
+
 Features
 ---
 Efficient Operations: Supports efficient insertion, retrieval, and removal of the maximum element.
 Heap-Based Implementation: Utilizes a binary heap (array-based) to maintain the max priority queue properties.
 Java Implementation: Written in Java, making it easy to integrate with other Java-based projects and applications.
 Dynamic Resizing: Automatically resizes the underlying array to accommodate the number of elements.
+
 Implementation Details
 ---
 Core Methods
